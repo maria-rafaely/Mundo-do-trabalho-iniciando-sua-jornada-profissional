@@ -2,9 +2,9 @@
 
 
 
-Marcelo Paludetto Rodrigues
-(DDD) 11111-1111
-Marcelopaludetto@start.com
+Maria Rafaely
+(43) 998253233
+maria.santos.ferreira09@escola.pr.gov.br
 Linkedin: @marcelopaludetto
 OBJETIVO
 Sou apaixonado por lógica e programação e tenho desejo de iniciar minha carreira profissional na área de desenvolvimento de software. Iniciei meus estudos desde muito jovem e já criei diversos projetos pessoais com HTML, CSS e JavaScript. Estou aprendendo sempre e me aprofundando em tecnologias para a área de front-end, como React e experiência do usuário.
@@ -53,7 +53,7 @@ Atividades:
 
 FORMAÇÃO ACADÊMICA
 Colégio Start – 2ª série do ensino médio (previsão de conclusão em 2026) 
-    • Estudante do itinerário formativo na área de Matemática e suas Tecnologias. 
+    • Estudante do itinerário formativo na área de computação  e suas Tecnologias. 
     • Medalhista de prata no concurso de programação da Start – categoria JavaScript edição 2024. 
     • Representante do time de Futsal – sub 17. 
 
